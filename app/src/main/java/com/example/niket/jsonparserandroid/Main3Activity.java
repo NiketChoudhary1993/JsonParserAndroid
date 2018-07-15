@@ -31,7 +31,7 @@ public class Main3Activity extends AppCompatActivity {
     POJO pojo;
     Adapter adapter;
     RequestQueue requestQueue;
-
+    String name = "niket";
     String BaseURL = "https://api.github.com/users/";
     String URL;
 
