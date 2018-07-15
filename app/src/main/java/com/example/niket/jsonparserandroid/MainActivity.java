@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     TextView textView;
     RequestQueue requestQueue;
-
+    String gg;
     String BaseURL = "https://api.github.com/users/";
     String URL;
 
