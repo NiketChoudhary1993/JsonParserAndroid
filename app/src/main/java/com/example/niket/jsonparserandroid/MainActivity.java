@@ -46,6 +46,19 @@ public class MainActivity extends AppCompatActivity {
         textView.setMovementMethod(new ScrollingMovementMethod());
 
         editText = findViewById(R.id.tv_daily);
+        editText = findViewById(R.id.tv_daily);
+        editText = findViewById(R.id.tv_daily);
+        editText = findViewById(R.id.tv_daily);
+        editText = findViewById(R.id.tv_daily);
+        editText = findViewById(R.id.tv_daily);
+        editText = findViewById(R.id.tv_daily);   editText = findViewById(R.id.tv_daily);
+        editText = findViewById(R.id.tv_daily);   editText = findViewById(R.id.tv_daily);   editText = findViewById(R.id.tv_daily);   editText = findViewById(R.id.tv_daily);   editText = findViewById(R.id.tv_daily);
+
+
+
+
+
+
         requestQueue = Volley.newRequestQueue(this);
 
         button = findViewById(R.id.repobutton);
